@@ -1,0 +1,25 @@
+Write an application using python 3.9 and the tkinter UI library.
+
+The code file should meet the following requirements:
+1. Do not provide any explanations that are not comment formatted.
+2. Do not use ```python to start the file
+3. Do not end the file with ```
+4. Do not use tk.PhotoImage.paste()
+
+The application should meet the following requirements:
+1. The UI should have a button named "yo yo yo" to load an ".mov" file.
+2. raise all Exceptions and Errors
+3. The UI should be 600 x 600 pixels
+4. It should be able to play .mov files
+5. It should play .mov files in a 1920x1080 window
+6. It should display the resolution of the currently playing movie file underneath the "yo yo yo" button.
+7. It should display the run time of the currently playing movie file underneath the movie resolution.
+8. It should have two editable text fields with a button marked copy in between them.
+9. Pressing the copy button should move the text in the field to the second.
+10. It should have a 200x200 light grey region where the user can draw.
+11. Drawing on the canvas should be red
+
+Avoid the following errors:
+No such file or directory
+os is not defined
+SyntaxError: invalid syntax
